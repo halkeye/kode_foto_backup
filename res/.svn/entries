@@ -1,0 +1,29 @@
+8
+
+dir
+305
+svn://svn.kodekoan.com/kodekoan/kodefotobuilder/trunk/res
+svn://svn.kodekoan.com/kodekoan
+
+
+
+2007-07-03T08:29:10.098838Z
+305
+halkeye
+
+
+svn:special svn:externals svn:needs-lock
+
+camera-video.ico
+file
+
+
+
+
+2007-07-03T03:50:26.000000Z
+01722da036ecc767026041dec74ba881
+2007-07-03T08:29:10.098838Z
+305
+halkeye
+has-props
+
